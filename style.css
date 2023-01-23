@@ -1,0 +1,14 @@
+.jumbotron{
+	background-color:#005bbb;
+	color: white;
+}
+
+.btn{
+	font-size: 1.17em;
+	font-weight: bold;
+}
+
+#box{
+	border: 1px solid black;
+	outline: 1px solid black;
+}

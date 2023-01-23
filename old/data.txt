@@ -1,0 +1,759 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta id="meta-viewport" name="viewport" content="width=device-width,initial-scale=1">
+  <script>if (screen.width > 720 && screen.width < 960) document.getElementById('meta-viewport').setAttribute('content', 'width=960');</script>
+      <script>(function (w, d, s, l, i) {w[l] = w[l] || [];w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+        var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(window, document, 'script', 'dataLayer', 'GTM-T5KRRKT');</script>
+      </script>
+
+  <meta name="robots" content="nofollow,noindex">
+
+  <link rel="stylesheet" href="https://search.buffalo.edu/stencils/resources/he/v15.12/css/he.css">
+  <link rel="stylesheet" href="https://search.buffalo.edu/s/resources/meta-search/_default/clientlibs.min.css" type="text/css">
+  <link rel="stylesheet" href="https://search.buffalo.edu/s/resources/meta-search/_default/search-component.min.css" type="text/css">
+  <link rel="stylesheet" href="https://search.buffalo.edu/s/resources/meta-search/_default/main.css" type="text/css">
+  <link rel="stylesheet" href="https://search.buffalo.edu/s/resources/meta-search/_default/topqueries.css" type="text/css">
+  <link rel="stylesheet" href="https://search.buffalo.edu/s/resources/meta-search/_default/collapsible.css" type="text/css">
+  <link rel="stylesheet" href="https://search.buffalo.edu/s/resources/meta-search/_default/typeahead.css" type="text/css">
+  <link rel="stylesheet" href="https://search.buffalo.edu/s/resources/meta-search/_default/bootstrap.css" type="text/css">
+  <link rel="stylesheet" href="https://search.buffalo.edu/s/resources/meta-search/_default/department.css" type="text/css">
+  <link rel="stylesheet" href="https://search.buffalo.edu/s/resources/meta-search/_default/people.css" type="text/css">
+  <link rel="stylesheet" href="https://search.buffalo.edu/s/resources/meta-search/_default/places.css" type="text/css">
+  <link rel="stylesheet" href="https://search.buffalo.edu/s/resources/meta-search/_default/degree.css" type="text/css">
+  <link rel="stylesheet" href="https://search.buffalo.edu/s/resources/meta-search/_default/facets.css" type="text/css">
+  <link rel="stylesheet" href="https://search.buffalo.edu/s/resources/meta-search/_default/applied-filters.css" type="text/css">
+  <link rel="stylesheet" href="https://search.buffalo.edu/s/resources-global/css/funnelback.faceted-navigation-1.0.0.css" type="text/css" />
+
+  <title>Search:&nbsp;vrushaal@buffalo.edu - University at Buffalo</title>
+
+</head>
+<body class="contentpage page">
+
+    <noscript>
+      <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T5KRRKT" height="0" width="0" style="display:none;visibility:hidden">
+      </iframe>
+    </noscript>
+
+<nav aria-label="skip to content"><a href="#skip-to-content" id="skip-to-content-link">Skip to Content</a></nav>
+<div id="page">
+  <div class="page-inner">
+    <div class="page-inner-1">
+      <div class="page-inner-2">
+        <div class="page-inner-2a"></div>
+        <div class="page-inner-3">
+          <header>
+<div class="innerheader inheritedreference reference parbase">
+  <div class="headerconfigpage contentpage page">
+    <div class="par parsys">
+      <div class="header section">
+        <div>
+          <div class="top theme-blue" data-set="header-links"><span></span>
+            <ul class="pervasive-links"><li><a href="//www.buffalo.edu">UB Home</a></li><li><a href="//www.buffalo.edu/maps">Maps</a></li><li><a href="//www.buffalo.edu/directory/">UB Directory</a></li></ul>
+          </div>
+          <div class="main theme-blue services-initiatives-events lines-1">
+            <div class="lockup"><a href="//www.buffalo.edu"> <i
+              class="icon icon-ub-logo"></i><span class="ada-hidden">University at Buffalo</span><span class="logo"><img
+              class="black"
+              src="//www.buffalo.edu/v-263c198d6bac02c569902b95592cc4fa/etc/designs/ubcms/images/header/ub-logo-black-stacked.png"
+              alt="University at Buffalo" width="100" height="45"> </span> </a>
+              <div class="mobile-links" data-set="header-links"></div>
+              <h1>
+                <div class="title"><a href="https://www.buffalo.edu/search/search.html?collection=meta-search">Search</a></div>
+              </h1>
+            </div>
+            <div class="social" data-set="headersocial"></div>
+            <div class="tasknav" data-set="tasknav"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+          </header>
+          <div id="columns" class="one-column clearfix">
+            <div class="columns-bg columns-bg-1">
+              <div class="columns-bg columns-bg-2">
+                <div class="columns-bg columns-bg-3">
+                  <div class="columns-bg columns-bg-4">
+                    <div id="skip-to-content"></div>
+                    <div id="center" role="main">
+                      <div class="par parsys">
+                        <div class="funnelback" >
+  <div class="searchresults section">
+    <ubcms-search>
+      <ubcms-search-input>
+        <div class="search-container" id="search-container" role="search">
+  <form action="https://www.buffalo.edu/search/search.html" method="GET">
+    <input type="hidden" name="collection" value="meta-search">
+
+      
+      
+      
+      
+      
+
+
+            <input autocomplete="off" class="search-input" id="query" name="query" type="text" placeholder="Search" aria-label="Search" autofocus value="vrushaal@buffalo.edu" accesskey="q">
+            <button class="search-submit" type="submit" value="Search" aria-label="Search"><span></span></button>
+              <div class="advanced-search-link-container">
+                <a href="https://www.buffalo.edu/search/search.html?searchUrl=https://www.buffalo.edu/search/search.html&amp;query=vrushaal%40buffalo.edu&amp;collection=meta-search&amp;f.Tabs%7Cdb-people=People&form=advanced">
+                  Advanced Search
+                </a>
+              </div>
+
+  </form>
+          <ubcms-search-progress></ubcms-search-progress>
+        </div>
+      </ubcms-search-input>
+    </ubcms-search>
+  </div>
+<div class="tabs section">
+<div class="tabs-component">
+<div class="tabs-component-tabs-wrapper">
+<ul class="tabs-component-tabs">
+<li class="tabs-component-tab-arrow"></li><li class="tabs-component-tab-inactive disabled">
+<a >
+Website <span class="search-facet-count search-mobile-hide">(0)</span>
+</a>
+</li><li class="tabs-component-tab-active ">
+<a >
+People <span class="search-facet-count search-mobile-hide">(1)</span>
+</a>
+</li><li class="tabs-component-tab-inactive disabled">
+<a >
+Departments <span class="search-facet-count search-mobile-hide">(0)</span>
+</a>
+</li><li class="tabs-component-tab-inactive disabled">
+<a >
+Locations <span class="search-facet-count search-mobile-hide">(0)</span>
+</a>
+</li><li class="tabs-component-tab-inactive disabled">
+<a >
+News <span class="search-facet-count search-mobile-hide">(0)</span>
+</a>
+</li><li class="tabs-component-tab-inactive disabled">
+<a >
+Events <span class="search-facet-count search-mobile-hide">(0)</span>
+</a>
+</li> </ul>
+</div>
+</div>
+</div>    <ubcms-search-summary>
+      <div class="search-summary">
+        <table>
+          <tr>
+            <td class="summary-txt">
+    <span class="search-mobile-hide">
+      <span class="search-counts-page-start">1</span> -
+      <span class="search-counts-page-end">1</span> of
+      <span class="search-counts-total-matching">1</span>
+      
+      search result for <strong>vrushaal@buffalo.edu</strong>
+    </span>
+    <span class="search-mobile-display">
+       <span class="search-counts-total-matching">1</span>
+       result
+    </span>
+
+            </td>
+              <td class="right search-options search-mobile-hide">
+  <span id="search-limit" class="drop-down-container search-mobile-hide">
+    <ubcms-drop-down>
+      <span class="ubcms-drop-down">
+        <button aria-haspopup="true" class="drop-down-toggle" type="button" id="search-limit-toggle" data-toggle="dropdown" aria-expanded="false">
+          <span id="search-limit-label" class="text-muted drop-down-toggle-label">Limit</span>
+          <span class="drop-down-toggle-value"></span>
+        </button>
+        <div class="drop-down-menu dropdown-menu left bottom" aria-labelledby="search-limit-label">
+              <a class="drop-down-item dropdown-item" href="search.html?searchUrl=https://www.buffalo.edu/search/search.html&amp;query=vrushaal%40buffalo.edu&amp;collection=meta-search&amp;f.Tabs%7Cdb-people=People&num_ranks=10">10 Results</a>
+              <a class="drop-down-item dropdown-item" href="search.html?searchUrl=https://www.buffalo.edu/search/search.html&amp;query=vrushaal%40buffalo.edu&amp;collection=meta-search&amp;f.Tabs%7Cdb-people=People&num_ranks=20">20 Results</a>
+              <a class="drop-down-item dropdown-item" href="search.html?searchUrl=https://www.buffalo.edu/search/search.html&amp;query=vrushaal%40buffalo.edu&amp;collection=meta-search&amp;f.Tabs%7Cdb-people=People&num_ranks=50">50 Results</a>
+          <input id="search-limit-input-hidden" type="hidden" name="num_ranks" aria-hidden="true" class="no-display" hidden>
+          <script type="text/javascript">
+            (function() {
+              var initValue = '10'
+              selectOption({ text: getTextForValue(initValue), value: initValue });
+              var customOptions = document.getElementById('search-limit').getElementsByClassName('drop-down-item');
+              for (var i = 0; i < customOptions.length; i++) {
+                var customOption = customOptions[i];
+                customOption.addEventListener('click', function(event) {
+                  var target = event.target;
+                  selectOption({ text: target.innerText, value: target.getAttribute('data-value') });
+                });
+              }
+
+              function selectOption(option) {
+                if (option) {
+                  var hiddenInput = document.getElementById('search-limit-input-hidden');
+                  var dropDownToggleLabel = document.getElementById('search-limit').getElementsByClassName('drop-down-toggle-label')[0];
+                  var dropDownToggleValue = document.getElementById('search-limit').getElementsByClassName('drop-down-toggle-value')[0];
+                  var dropDownLabelText = (dropDownToggleLabel ? dropDownToggleLabel.innerText : '');
+                  var dropDownLabelValue = option.value;
+                  if (dropDownLabelText) {
+                    if (dropDownLabelValue && dropDownLabelText.charAt(dropDownLabelText.length - 1) !== ':') {
+                      dropDownToggleLabel.innerText = (dropDownLabelText + ':');
+                    } else if (!dropDownLabelValue && dropDownLabelText.charAt(dropDownLabelText.length - 1) === ':') {
+                      dropDownToggleLabel.innerText = dropDownLabelText.substring(0, dropDownLabelText.length - 1);
+                    }
+                  }
+                  if (!dropDownLabelValue.startsWith('meta')) {
+                    dropDownToggleValue.innerText = dropDownLabelValue;
+                  }
+                  hiddenInput.value = option.value;
+                }
+              }
+
+              function getTextForValue(value) {
+                    if ('10' == value) {
+                      return '10 Results'
+                    }
+                    if ('20' == value) {
+                      return '20 Results'
+                    }
+                    if ('50' == value) {
+                      return '50 Results'
+                    }
+                return value;
+              }
+            })();
+          </script>
+        </div>
+      </span>
+    </ubcms-drop-down>
+  </span>
+  <span id="search-sort" class="drop-down-container ">
+    <ubcms-drop-down>
+      <span class="ubcms-drop-down">
+        <button aria-haspopup="true" class="drop-down-toggle" type="button" id="search-sort-toggle" data-toggle="dropdown" aria-expanded="false">
+          <span id="search-sort-label" class="text-muted drop-down-toggle-label">Sort</span>
+          <span class="drop-down-toggle-value"></span>
+        </button>
+        <div class="drop-down-menu dropdown-menu left bottom" aria-labelledby="search-sort-label">
+              <a class="drop-down-item dropdown-item" href="search.html?searchUrl=https://www.buffalo.edu/search/search.html&amp;query=vrushaal%40buffalo.edu&amp;collection=meta-search&amp;f.Tabs%7Cdb-people=People&sort=">Relevance</a>
+              <a class="drop-down-item dropdown-item" href="search.html?searchUrl=https://www.buffalo.edu/search/search.html&amp;query=vrushaal%40buffalo.edu&amp;collection=meta-search&amp;f.Tabs%7Cdb-people=People&sort=date">Date (Newest First)</a>
+              <a class="drop-down-item dropdown-item" href="search.html?searchUrl=https://www.buffalo.edu/search/search.html&amp;query=vrushaal%40buffalo.edu&amp;collection=meta-search&amp;f.Tabs%7Cdb-people=People&sort=adate">Date (Oldest First)</a>
+              <a class="drop-down-item dropdown-item" href="search.html?searchUrl=https://www.buffalo.edu/search/search.html&amp;query=vrushaal%40buffalo.edu&amp;collection=meta-search&amp;f.Tabs%7Cdb-people=People&sort=metapeopleLastFirstName">A-Z</a>
+              <a class="drop-down-item dropdown-item" href="search.html?searchUrl=https://www.buffalo.edu/search/search.html&amp;query=vrushaal%40buffalo.edu&amp;collection=meta-search&amp;f.Tabs%7Cdb-people=People&sort=dmetapeopleLastFirstName">Z-A</a>
+          <input id="search-sort-input-hidden" type="hidden" name="sort" aria-hidden="true" class="no-display" hidden>
+          <script type="text/javascript">
+            (function() {
+              var initValue = ''
+              selectOption({ text: getTextForValue(initValue), value: initValue });
+              var customOptions = document.getElementById('search-sort').getElementsByClassName('drop-down-item');
+              for (var i = 0; i < customOptions.length; i++) {
+                var customOption = customOptions[i];
+                customOption.addEventListener('click', function(event) {
+                  var target = event.target;
+                  selectOption({ text: target.innerText, value: target.getAttribute('data-value') });
+                });
+              }
+
+              function selectOption(option) {
+                if (option) {
+                  var hiddenInput = document.getElementById('search-sort-input-hidden');
+                  var dropDownToggleLabel = document.getElementById('search-sort').getElementsByClassName('drop-down-toggle-label')[0];
+                  var dropDownToggleValue = document.getElementById('search-sort').getElementsByClassName('drop-down-toggle-value')[0];
+                  var dropDownLabelText = (dropDownToggleLabel ? dropDownToggleLabel.innerText : '');
+                  var dropDownLabelValue = option.text;
+                  if (dropDownLabelText) {
+                    if (dropDownLabelValue && dropDownLabelText.charAt(dropDownLabelText.length - 1) !== ':') {
+                      dropDownToggleLabel.innerText = (dropDownLabelText + ':');
+                    } else if (!dropDownLabelValue && dropDownLabelText.charAt(dropDownLabelText.length - 1) === ':') {
+                      dropDownToggleLabel.innerText = dropDownLabelText.substring(0, dropDownLabelText.length - 1);
+                    }
+                  }
+                  if (!dropDownLabelValue.startsWith('meta')) {
+                    dropDownToggleValue.innerText = dropDownLabelValue;
+                  }
+                  hiddenInput.value = option.value;
+                }
+              }
+
+              function getTextForValue(value) {
+                    if ('' == value) {
+                      return 'Relevance'
+                    }
+                    if ('date' == value) {
+                      return 'Date (Newest First)'
+                    }
+                    if ('adate' == value) {
+                      return 'Date (Oldest First)'
+                    }
+                    if ('metapeopleLastFirstName' == value) {
+                      return 'A-Z'
+                    }
+                    if ('dmetapeopleLastFirstName' == value) {
+                      return 'Z-A'
+                    }
+                return value;
+              }
+            })();
+          </script>
+        </div>
+      </span>
+    </ubcms-drop-down>
+  </span>
+              </td>
+            <td class="refine-results search-mobile-display">
+              <button id="refineResult"><i class="icon-filter"></i>Refine Results</button>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </ubcms-search-summary>
+
+
+
+
+
+
+
+
+
+
+  <!-- locations/people module experiment -->
+  <!-- end locations/people module experiment -->
+
+  <div class="parsys_column cq-colctrl-3-9 tab-content-people">
+    <div class="parsys_column cq-colctrl-3-9-c0 side-menu-container">
+    <div id="facets-modal" class="facets-container modal">
+      <div class="facets-header">Filters<div class="modal-close">Close<span></span></div></div>
+      <div class="wrapper">
+      <div class="facets-body">
+        <div class="search-mobile-display">
+          <div class="facets-section-divider"></div>
+    <div class="search-mobile-display facet-section-header facet-sort-by-header">Sort By</div>
+  <span id="search-sort-facets" class="drop-down-container ">
+    <ubcms-drop-down>
+      <span class="ubcms-drop-down">
+        <button aria-haspopup="true" class="drop-down-toggle" type="button" id="search-sort-facets-toggle" data-toggle="dropdown" aria-expanded="false">
+          <span id="search-sort-facets-label" class="text-muted drop-down-toggle-label">Sort</span>
+          <span class="drop-down-toggle-value"></span>
+        </button>
+        <div class="drop-down-menu dropdown-menu left bottom" aria-labelledby="search-sort-facets-label">
+              <a class="drop-down-item dropdown-item" href="search.html?searchUrl=https://www.buffalo.edu/search/search.html&amp;query=vrushaal%40buffalo.edu&amp;collection=meta-search&amp;f.Tabs%7Cdb-people=People&sort=">Relevance</a>
+              <a class="drop-down-item dropdown-item" href="search.html?searchUrl=https://www.buffalo.edu/search/search.html&amp;query=vrushaal%40buffalo.edu&amp;collection=meta-search&amp;f.Tabs%7Cdb-people=People&sort=date">Date (Newest First)</a>
+              <a class="drop-down-item dropdown-item" href="search.html?searchUrl=https://www.buffalo.edu/search/search.html&amp;query=vrushaal%40buffalo.edu&amp;collection=meta-search&amp;f.Tabs%7Cdb-people=People&sort=adate">Date (Oldest First)</a>
+              <a class="drop-down-item dropdown-item" href="search.html?searchUrl=https://www.buffalo.edu/search/search.html&amp;query=vrushaal%40buffalo.edu&amp;collection=meta-search&amp;f.Tabs%7Cdb-people=People&sort=title">A-Z</a>
+              <a class="drop-down-item dropdown-item" href="search.html?searchUrl=https://www.buffalo.edu/search/search.html&amp;query=vrushaal%40buffalo.edu&amp;collection=meta-search&amp;f.Tabs%7Cdb-people=People&sort=dtitle">Z-A</a>
+          <input id="search-sort-facets-input-hidden" type="hidden" name="sort" aria-hidden="true" class="no-display" hidden>
+          <script type="text/javascript">
+            (function() {
+              var initValue = ''
+              selectOption({ text: getTextForValue(initValue), value: initValue });
+              var customOptions = document.getElementById('search-sort-facets').getElementsByClassName('drop-down-item');
+              for (var i = 0; i < customOptions.length; i++) {
+                var customOption = customOptions[i];
+                customOption.addEventListener('click', function(event) {
+                  var target = event.target;
+                  selectOption({ text: target.innerText, value: target.getAttribute('data-value') });
+                });
+              }
+
+              function selectOption(option) {
+                if (option) {
+                  var hiddenInput = document.getElementById('search-sort-facets-input-hidden');
+                  var dropDownToggleLabel = document.getElementById('search-sort-facets').getElementsByClassName('drop-down-toggle-label')[0];
+                  var dropDownToggleValue = document.getElementById('search-sort-facets').getElementsByClassName('drop-down-toggle-value')[0];
+                  var dropDownLabelText = (dropDownToggleLabel ? dropDownToggleLabel.innerText : '');
+                  var dropDownLabelValue = option.text;
+                  if (dropDownLabelText) {
+                    if (dropDownLabelValue && dropDownLabelText.charAt(dropDownLabelText.length - 1) !== ':') {
+                      dropDownToggleLabel.innerText = (dropDownLabelText + ':');
+                    } else if (!dropDownLabelValue && dropDownLabelText.charAt(dropDownLabelText.length - 1) === ':') {
+                      dropDownToggleLabel.innerText = dropDownLabelText.substring(0, dropDownLabelText.length - 1);
+                    }
+                  }
+                  if (!dropDownLabelValue.startsWith('meta')) {
+                    dropDownToggleValue.innerText = dropDownLabelValue;
+                  }
+                  hiddenInput.value = option.value;
+                }
+              }
+
+              function getTextForValue(value) {
+                    if ('' == value) {
+                      return 'Relevance'
+                    }
+                    if ('date' == value) {
+                      return 'Date (Newest First)'
+                    }
+                    if ('adate' == value) {
+                      return 'Date (Oldest First)'
+                    }
+                    if ('title' == value) {
+                      return 'A-Z'
+                    }
+                    if ('dtitle' == value) {
+                      return 'Z-A'
+                    }
+                return value;
+              }
+            })();
+          </script>
+        </div>
+      </span>
+    </ubcms-drop-down>
+  </span>
+        </div>
+          <div id="facet-section-header-1" class="facet-section-header">
+            <a class="panel-toggle" data-target="#facet-1" data-toggle="collapse" aria-expanded="true" aria-controls="facet-1">
+              Affiliation
+            </a>
+          </div>
+
+          <div class="facet-section-body" id="facet-1" role="radiogroup" aria-labelledby="facet-section-header-1">
+                
+                <a class="facet-item  " href="?f.Affiliation%7CpeopleAffiliation=Student&amp;query=vrushaal%40buffalo.edu&amp;f.Tabs%7Cdb-people=People&amp;searchUrl=https%3A%2F%2Fwww.buffalo.edu%2Fsearch%2Fsearch.html&amp;collection=meta-search" title="Refine by 'Affiliation: Student'">
+                    <span class="facet-item-ctrl">
+                        <span class="radio" role="radio" aria-labelledby="facet-item-label-1-1" aria-checked="false">
+                          
+                        </span>
+                    </span>
+                  <span id="facet-item-label-1-1" class="facet-item-label">Student</span>
+                  <span class="facet-item-count">1</span>
+                </a>
+
+          </div>
+      </div>
+      </div>
+    </div>
+    </div>
+    <div class="parsys_column cq-colctrl-3-9-c1 search-results-container">
+      <div class="searchresults">
+        <ubcms-search>
+          <ubcms-search-results>
+
+            <!-- locations promotion as first result-->
+            <!-- end locations promotion as first result-->
+
+
+
+      <div class="search-spelling">
+        <span>Did you mean: </span>
+        <a href="search.html?query=%22breandan+buffalo+edu%22&amp;collection=meta-search&amp;profile=_default" title="Spelling suggestion">
+          &quot;breandan buffalo edu&quot;
+        </a>
+      </div>
+
+
+
+            <div class="search-results-container">
+
+
+
+
+  <ubcms-search-result data-fb-result="local:///serve-db-document.tcgi?collection=db-people&amp;record_id=vrushaal">
+    <div class="search-result search-result-people">
+      <div class="row">
+        <div class="col-sm-6">
+          <a class="title" href="https://search.buffalo.edu/s/redirect?collection=meta-search&amp;url=https%3A%2F%2Fwww.buffalo.edu%2Fsearch%2Fsearch.html%3Fquery%3DpeopleUBIT%3Avrushaal%26form%3Dpeople-details%26collection%3Dmeta-search%26f.Tabs%257cdb-people%3Dpeople%26profile%3D_default&amp;index_url=local%3A%2F%2F%2Fserve-db-document.tcgi%3Fcollection%3Ddb-people%26record_id%3Dvrushaal&amp;auth=vdw2pFTE7Vch80JckIsRDw&amp;profile=_default&amp;rank=1&amp;query=vrushaal%40buffalo.edu" title="https://www.buffalo.edu/search/search.html?query=peopleUBIT:vrushaal&amp;form=people-details&amp;collection=meta-search&amp;f.Tabs%7cdb-people=people&amp;profile=_default">
+            <span class="name">Vrushaali Nagaraj</span>
+            <span class="chevron-right-postfix"></span>
+          </a>
+        </div>
+      </div>
+      <div class="row people-info-container">
+        <div class="col-sm-6 ">
+            <div class="people-details-title">
+      Student
+            </div>
+            <div class="people-details-department">
+      Computer Science
+            </div>
+        </div>
+        <div class="col-sm-6 people-mobile-hide right">
+            <div class="metadata icon-envelope">
+              <span class="ada-hidden">Email</span>
+              <a href="mailto:vrushaal@buffalo.edu">vrushaal@buffalo.edu</a>
+            </div>
+        </div>
+      </div>
+        <div class="row people-mobile-footer people-mobile-actions">
+            <a class="col-xs-6" href="mailto:vrushaal@buffalo.edu">
+              <button tabindex="-1"><i class="icon-envelope"></i>Email<span class="ada-hidden"> vrushaal@buffalo.edu</span></button>
+            </a>
+        </div>
+        <div class="row people-footer">
+          <hr class="people-container-border">
+        </div>
+    </div>
+  </ubcms-search-result>
+            </div>
+
+    <ubcms-search-pager>
+      <div class="pager-container">
+<span class="pager-selection">1</span>      </div>
+    </ubcms-search-pager>
+
+          </ubcms-search-results>
+        </ubcms-search>
+      </div>
+    </div>
+  </div>
+                        </div>
+                        <div style="clear:both"></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <span id="to-top" class="chevron-up"></span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<script src="https://search.buffalo.edu/stencils/resources/thirdparty/jquery/v3.2.1/jquery-3.2.1.min.js"></script>
+<footer>
+<div class="footer inheritedreference reference parbase">
+  <div class="footerconfigpage contentpage page">
+    <div class="par parsys">
+      <div class="fatfooter section open">
+        <div class="footer-mode-simple"><a href="//www.buffalo.edu/">
+            <img class="ub-logo"
+                 src="//www.buffalo.edu/v-e541efb31faa2518c910054a542e8044/etc.clientlibs/wci/components/block/fatfooter/clientlibs/resources/ub-logo-two-line.png"
+                 alt="University at Buffalo The State University of New York" width="241" height="32"> </a>
+          <div class="footer-columns footer-columns-1">
+            <div class="footer-column footer-column-1">
+              <div class="col1 parsys">
+                <div class="text parbase section"><p><b>Address</b>&nbsp; 12 Capen Hall, Buffalo, New York
+                    14260-1660<br> <b>Phone</b>&nbsp; 716-645-2000</p></div>
+                <div class="buttoncomponent sidebyside orange"><a href="/about_ub/contact-us.html">Contact Us</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="copyright"><span class="copy">© 2019</span>
+            <script>jQuery(".copyright .copy").html("&copy; " + (new Date()).getFullYear());</script>&nbsp;<a
+              href="//www.buffalo.edu/">University at Buffalo</a>. All rights reserved.&nbsp;&nbsp;|&nbsp;&nbsp;<a
+              href="//www.buffalo.edu/administrative-services/policy1/ub-policy-lib/privacy.html">Privacy</a>&nbsp;&nbsp;|&nbsp;
+            <a href="//www.buffalo.edu/access/about-us/contact-us.html">Accessibility</a></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</footer>
+<script src="https://search.buffalo.edu/stencils/resources/thirdparty/popper/v1.12.3/umd/popper.min.js"></script>
+<script src="https://search.buffalo.edu/stencils/resources/thirdparty/bootstrap/v4.0.0-prefixed/js/bootstrap.min.js"></script>
+<script src="https://search.buffalo.edu/stencils/resources/base/v15.8/js/base.js"></script>
+
+<script src="https://search.buffalo.edu/stencils/resources/autocompletion/js/typeahead.bundle-0.11.1.min.js"></script>
+<script src="https://search.buffalo.edu/stencils/resources/autocompletion/js/handlebars.min-v4.0.5.js"></script>
+<script src="https://search.buffalo.edu/s/resources/meta-search/_default/typeahead.fb-2.6.js"></script>
+<script src="https://search.buffalo.edu/s/resources/meta-search/_default/lazysizes.min.js" async></script>
+<script src="https://search.buffalo.edu/s/resources/meta-search/_default/lazysizes-extensions.js" async></script>
+<script src="https://search.buffalo.edu/s/resources/meta-search/_default/go-to-top.js"></script>
+<script src="https://search.buffalo.edu/s/resources/meta-search/_default/facets-modal.js"></script>
+
+  <script id="auto-completion-website" type="text/x-handlebar-template">
+    <div class="media">
+      {{#if extra.disp.image}}
+      <img class="d-flex mr-3" src="{{extra.disp.image}}"/>
+      {{/if}}
+      <div class="media-body">
+        <h6>{{extra.disp.title}}</h6>
+        <div class="details text-muted">
+          {{#if extra.disp.description}}<div><small><span class="text-muted" aria-hidden="true"></span> {{extra.disp.description}}</small></div>{{/if}}
+        </div>
+      </div>
+    </div>
+  </script>
+  <script id="auto-completion-dept" type="text/x-handlebar-template">
+    <div class="media">
+      <div class="media-body">
+        <div>{{extra.disp.title}}</div>
+        <div class="card-text">
+          <ul class="card-text-list">
+            <h6>Director: </h6>
+            {{#if extra.disp.deptDirectorName}}
+            <li>
+              <small><span class="fa fa-fw fa-user-circle text-muted" aria-hidden="true"></span>
+                {{extra.disp.deptDirectorName}}
+              </small>
+            </li>
+            {{/if}}
+            {{#if extra.disp.deptDirectorEmail}}
+            <li>
+              <small><span class="fa fa-fw fa-envelope-o text-muted" aria-hidden="true"></span>
+                {{extra.disp.deptDirectorEmail}}
+              </small>
+            </li>
+            {{/if}}
+            {{#if extra.disp.deptDirectorPhone}}
+            <li>
+              <small><span class="fa fa-fw fa-phone text-muted" aria-hidden="true"></span>
+                {{extra.disp.deptDirectorPhone}}
+              </small>
+            </li>
+            {{/if}}
+          </ul>
+          <span class="card-text-line"></span>
+          <ul class="card-text-list">
+            <h6>Department: </h6>
+            {{#if extra.disp.deptAddress}}
+            <li>
+              <small><span class="fa fa-fw fa-map-marker text-muted" aria-hidden="true"></span>
+                {{extra.disp.deptAddress}}
+              </small>
+            </li>
+            {{/if}}
+            {{#if extra.disp.deptEmail}}
+            <li>
+              <small><span class="fa fa-fw fa-envelope-o text-muted" aria-hidden="true"></span> {{extra.disp.deptEmail}}
+              </small>
+            </li>
+            {{/if}}
+            {{#if extra.disp.deptPhone}}
+            <li>
+              <small><span class="fa fa-fw fa-phone text-muted" aria-hidden="true"></span> {{extra.disp.deptPhone}}
+              </small>
+            </li>
+            {{/if}}
+            {{#if extra.disp.deptFax}}
+            <li>
+              <small><span class="fa fa-fw fa-phone text-muted" aria-hidden="true"></span> {{extra.disp.deptFax}}
+              </small>
+            </li>
+            {{/if}}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </script>
+  <script id="auto-completion-people" type="text/x-handlebar-template">
+    <div class="media">
+      <div class="media-body tt-people-contianer">
+        <div class="tt-people-header">
+          {{#if extra.disp.peopleName}}
+          <div class="tt-people-name">{{extra.disp.peopleName}}</div>
+          {{/if}}
+          <div>
+            {{#if extra.disp.peopleDisplayTitle}}
+            <span class="tt-people-title">
+                {{extra.disp.peopleDisplayTitle}}{{#if extra.disp.peopleDepartment}},{{/if}}
+              </span>
+            {{/if}}
+            {{#if extra.disp.peopleDepartment}}
+            <span class="tt-people-department">{{extra.disp.peopleDepartment}}</span>
+            {{/if}}
+          </div>
+        </div>
+        <div>
+          <span class="tt-people-phone">{{extra.disp.peopleDisplayPhone}}</span>
+          {{#if extra.disp.peopleDisplayPhone}}
+          {{#if extra.disp.peopleDisplayEmail}}
+          <span class="tt-people-phone-email-pipe">|</span>
+          {{/if}}
+          {{/if}}
+          <span class="tt-people-email">{{extra.disp.peopleDisplayEmail}}</span>
+        </div>
+      </div>
+    </div>
+  </script>
+  <script id="auto-completion-places" type="text/x-handlebar-template">
+    <div class="media">
+      <div class="media-body tt-place-container">
+        {{#if extra.disp.title}}
+          <div class="tt-place-title">{{extra.disp.title}}</div>
+        {{/if}}
+    </div>
+    </div>
+  </script>
+
+<script>
+  jQuery(document).ready(function() {
+    setupDeferredImages();
+    setupFacetLessMoreButtons(7, '.search-facet');
+  jQuery('#query').qc({
+    program: 'https://search.buffalo.edu/s/suggest.json',
+    alpha: '0.5',
+    show: '10',
+    sort: '0',
+    length: '3',
+    callback: function (set, suggestions) {
+      if (suggestions.length) {
+        jQuery('.tt-menu').addClass(set.collection.toLowerCase());
+      } else {
+        jQuery('.tt-menu').removeClass(set.collection.toLowerCase());
+      }
+      return suggestions;
+    },
+    datasets: {
+      organic: {
+        name: 'Suggestions',
+        show: (window.innerWidth <= 720) ? '6' : '12',
+        profile: '_default',
+        collection: 'meta-search'
+      },
+      people: {
+        name: 'People',
+        show: (window.innerWidth <= 720) ? '3' : '4',
+        profile: 'autocompletion',
+        collection: 'db-people'
+        , template: {
+          suggestion: jQuery('#auto-completion-people').text()
+        }
+      },
+      places: {
+        name: 'Locations',
+        show: (window.innerWidth <= 720) ? '3' : '8',
+        profile: 'autocompletion',
+        collection: 'db-places'
+        , template: {
+          suggestion: jQuery('#auto-completion-places').text()
+        }
+      }
+    }
+  });
+  (function() {
+    var topQueriesDiv = jQuery('#top-queries');
+
+    if (topQueriesDiv[0]) {
+      jQuery.ajax({
+        url: '/admin-api/analytics/v1/collections/meta-search/queries/top',
+        type: "get",
+        data: {
+          profile: '_default',
+          earliestDate: '2022-02-06',
+          latestDate: '2022-02-20'
+        },
+        success: processTopQueriesResponse,
+        error: console.error
+      });
+    }
+
+    function processTopQueriesResponse(response) {
+      if (response && response.data && response.data.queries.length > 0) {
+        var topQueriesListFirst = topQueriesDiv.find('.top-queries-list-first');
+        var topQueriesListLast = topQueriesDiv.find('.top-queries-list-last');
+        // Filter out any empty string queries (not likely to occur in produciton, but just a precaution).
+        response.data.queries = response.data.queries.filter(function(item) {
+          return item.query && item.query.trim().length !== 0;
+        });
+        for (var i = 0; i < response.data.queries.length; i++) {
+          var item = response.data.queries[i];
+          var topQueriesList = (i < 5 ? topQueriesListFirst : topQueriesListLast);
+          topQueriesList.append('<li><a href="https://www.buffalo.edu/search/search.html?collection=meta-search&profile=_default&query=' + item.query + '">' + item.query + '</a></li>');
+        }
+        topQueriesDiv[0].classList.remove('no-top-queries');
+      }
+    }
+  })();
+  });
+</script>
+
+
+</body>
+</html>
